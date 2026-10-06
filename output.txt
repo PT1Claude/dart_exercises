@@ -1,0 +1,5 @@
+Student Name: Aldous Makunouchi
+Quiz Score: 85
+Project Score: 90.5
+Final Grade: 87
+Did the student pass? true
